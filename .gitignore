@@ -1,0 +1,13 @@
+# Ignore Visual Studio files
+.vs/
+
+# Ignore Node.js dependencies (for frontend)
+/frontend/node_modules/
+
+# Ignore build directories (for frontend and backend)
+/frontend/dist/
+/backend/bin/
+/backend/obj/
+
+# Ignore ASP.NET specific files
+/backend/.vscode/
